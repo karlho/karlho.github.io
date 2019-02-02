@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Science for All, STEM or Non
+title: Data Science for All, STEM and Non
 ---
 
 This is the sample blog.
