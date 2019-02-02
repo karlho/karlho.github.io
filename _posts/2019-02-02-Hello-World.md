@@ -1,5 +1,5 @@
 ---
-date: 2019-02-03 14:40:45
+2019-02-03 06:40:45 -0800
 layout: post
 title: You're up and running!
 ---
