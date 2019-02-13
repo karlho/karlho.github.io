@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Data Science for All, STEM and Non
+title: Data Visualizations: Charts
 ---
 
-Citizen Data Science and Data Literacy
 
