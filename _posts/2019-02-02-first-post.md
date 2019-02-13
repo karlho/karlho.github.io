@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Visualizations: Charts
+title: Data Visualizations Chart Gallery
 ---
 
 Your charts go here.
