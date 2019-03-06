@@ -3,4 +3,4 @@ layout: post
 title: Data Visualizations Chart Gallery
 ---
 
-Your charts go here.
+[Stata output using dyndoc](hpidyndoc1.html "Stata dyndoc output") link
