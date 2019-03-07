@@ -50,11 +50,12 @@ HappyPlanetIn~6 double  %10.0g                Region == Sub Saharan Africa
 
 </code></pre>
 <h2><a href="#explore-relationship-between-hpi-and-gdp-per-capita" id="explore-relationship-between-hpi-and-gdp-per-capita">Explore relationship between HPI and GDP Per Capita</a></h2>
+<h1><a href="#scatter-plot-to-show-the-relationship" id="scatter-plot-to-show-the-relationship">Scatter plot to show the relationship</a></h1>
 <pre><code>. scatter HappyPlanetIndex? lgdp, ytitle(Happy Planent Index)
 
 </code></pre>
- <img src="hpilgdp.pdf" height="400" alt="HPI~GDPPC" >
-<pre><code>. regress HappyPlanetIndex lgdp
+ <img src="hpilgdp.png" height="400" alt="HPI~GDPPC" >
+<pre><code>. regress HappyPlanetIndex lgdp 
 
       Source |       SS           df       MS      Number of obs   =       140
 -------------+----------------------------------   F(1, 138)       =      9.28
