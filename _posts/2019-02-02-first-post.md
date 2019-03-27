@@ -5,8 +5,8 @@ title: Data Visualizations Chart Gallery
 
 [Stata output using dyndoc](/stata/hpidyndoc1.html "Stata dyndoc output")
 
-[ggplot2]()
+[ggplot2](https://karl-ho.github.io/R/ggplot2/ggplot2_1.html "ggplot2 workshop notebook")
 
 [D3 ladder graph: Taiwan climate](/D3/lg_twclimate/index.html "Taiwan Climate Laddergraph")
 
-[Shiny: Reactivity](https://karl-ho.shinyapps.io/Reactive_datasets/)
+[Shiny: Reactivity](https://karl-ho.shinyapps.io/Reactive_datasets/ "Shiny Reactivity")
