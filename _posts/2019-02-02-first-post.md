@@ -7,6 +7,6 @@ title: Data Visualizations Chart Gallery
 
 [ggplot2]()
 
-[D3 ladder graph: Taiwan climate](/d3/lg_twclimate "Taiwan Climate Laddergraph")
+[D3 ladder graph: Taiwan climate](/d3/lg_twclimate/index.html "Taiwan Climate Laddergraph")
 
 [Shiny: Reactivity](https://karl-ho.shinyapps.io/Reactive_datasets/)
