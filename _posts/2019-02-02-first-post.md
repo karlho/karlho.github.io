@@ -13,4 +13,4 @@ title: Data Visualizations Chart Gallery
 
 [RMarkdown](/R/Markdown/ggplot2_showcase.html "RMarkdown Demo")
 
-[[embed url=https://karl-ho.github.io/findmeat.html]]
+<iframe width="560" height="315" src="https://karl-ho.github.io/findmeat.html" frameborder="0" allowfullscreen></iframe>
