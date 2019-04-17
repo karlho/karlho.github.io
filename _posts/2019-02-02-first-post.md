@@ -9,7 +9,7 @@ title: Data Visualizations Chart Gallery
 
 [D3 Ladder graph: Taiwan climate](/D3/lg_twclimate/index.html "Taiwan Climate Laddergraph")
 
-[D3 Create network (Credit: Mike Bostock](/D3/createnetwork/index.html "Create your own network")
+[D3 Create network (Credit: Mike Bostock)](/D3/createnetwork/index.html "Create your own network")
 
 [Shiny: Reactivity](https://karl-ho.shinyapps.io/Reactive_datasets/ "Shiny Reactivity")
 
