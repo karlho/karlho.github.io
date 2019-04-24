@@ -7,6 +7,8 @@ title: Data Visualizations Chart Gallery
 
 [ggplot2](https://karl-ho.github.io/R/ggplot2/ggplot2_1.html "ggplot2 workshop notebook")
 
+[D3 Aster charts: Taiwan and Hong Kong LPM] (https://www.utdallas.edu/~kyho/present/aster/lpm.html)
+
 [D3 Ladder graph: Taiwan climate](/D3/lg_twclimate/index.html "Taiwan Climate Laddergraph")
 
 [D3 Create network (Credit: Mike Bostock)](/D3/createnetwork/index.html "Create your own network")
