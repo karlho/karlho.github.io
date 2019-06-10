@@ -3,6 +3,8 @@ layout: post
 title: Data Visualizations Chart Gallery
 ---
 
+[SHapley Additive exPlanations (SHAP)](/stata/hpidyndoc1.html "Predictor probabilities of DPP vote in 2016")
+
 [Stata output using dyndoc](/stata/hpidyndoc1.html "Stata dyndoc output")
 
 [ggplot2](https://karl-ho.github.io/R/ggplot2/ggplot2_1.html "ggplot2 workshop notebook")
