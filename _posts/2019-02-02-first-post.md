@@ -3,7 +3,7 @@ layout: post
 title: Data Visualizations Chart Gallery
 ---
 
-[SHapley Additive exPlanations (SHAP)](/stata/hpidyndoc1.html "Predictor probabilities of DPP vote in 2016")
+[SHapley Additive exPlanations (SHAP)](/files/Shap_votetsai2016.svg "Predictor probabilities of DPP vote in 2016")
 
 [Stata output using dyndoc](/stata/hpidyndoc1.html "Stata dyndoc output")
 
