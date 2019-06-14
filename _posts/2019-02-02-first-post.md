@@ -3,8 +3,7 @@ layout: post
 title: Data Visualizations Chart Gallery
 ---
 
-[Hans Rosling chart](/files/Rosling_animate.gif) | 
-[sample program](/files/HansRosling.R)
+[Hans Rosling chart](/files/Rosling_animate.gif)
 
 [SHapley Additive exPlanations (SHAP): Vote for Tsai 2016](/files/Shap_votetsai2016.svg "Predictor probabilities of DPP vote in 2016")
 
