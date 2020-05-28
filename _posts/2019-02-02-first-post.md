@@ -9,7 +9,7 @@ title: Data Visualizations Chart Gallery
 
 [Stata output using dyndoc](/stata/hpidyndoc1.html "Stata dyndoc output")
 
-[ggplot2](https://karl-ho.github.io/R/ggplot2/ggplot2_1.html "ggplot2 workshop notebook")
+[ggplot2](https://karlho.github.io/R/ggplot2/ggplot2_1.html "ggplot2 workshop notebook")
 
 [D3 Aster charts: Taiwan and Hong Kong Latent Profile Models](https://www.utdallas.edu/~kyho/present/aster/lpm.html)
 
@@ -21,4 +21,4 @@ title: Data Visualizations Chart Gallery
 
 [RMarkdown](/R/Markdown/ggplot2_showcase.html "RMarkdown Demo")
 
-<iframe width="560" height="315" src="https://karl-ho.github.io/findmeat.html" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://karlho.github.io/findmeat.html" frameborder="0" allowfullscreen></iframe>
