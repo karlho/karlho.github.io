@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Visualizations Chart Gallery
+title: Data Visualization Chart Gallery
 ---
 
 [Hans Rosling chart](/files/Rosling_animate.gif)
