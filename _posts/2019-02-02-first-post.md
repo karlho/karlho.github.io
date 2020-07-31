@@ -17,10 +17,10 @@ title: Data Visualization Chart Gallery
 
 [D3 Create network (Credit: Mike Bostock)](/D3/createnetwork/index.html "Create your own network")
 
-[Shiny: Reactivity](https://karl-ho.shinyapps.io/Reactive_datasets/ "Shiny Reactivity")
+[Shiny: Reactivity](https://karlho.shinyapps.io/Reactive_datasets/ "Shiny Reactivity")
 
 [RMarkdown](/R/Markdown/ggplot2_showcase.html "RMarkdown Demo")
 
-[Machine Learning](http://karlho.github.io/treemodels_creditcard.html)
+[Machine Learning](https://karlho.github.io/treemodels_creditcard.html)
 
 <iframe width="560" height="315" src="https://karlho.github.io/findmeat.html" frameborder="0" allowfullscreen></iframe>
