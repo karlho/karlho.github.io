@@ -21,6 +21,6 @@ title: Data Visualization Chart Gallery
 
 [RMarkdown](/R/Markdown/ggplot2_showcase.html "RMarkdown Demo")
 
-[Machine Learning](treemodels_creditcard.html)
+[Machine Learning](http://karlho.github.io/treemodels_creditcard.html)
 
 <iframe width="560" height="315" src="https://karlho.github.io/findmeat.html" frameborder="0" allowfullscreen></iframe>
