@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Karl Ho Data Science Blog - Data Visualization
+title: Data Science Blog - Data Visualization
 ---
 
 [Hans Rosling chart](/files/Rosling_animate.gif)
