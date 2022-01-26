@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# SDAR
+# Social Data Analytics and Research (SDAR)
 
 - Data Methods (Data Collection and Production)
 - Data Visualization
