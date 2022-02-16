@@ -8,3 +8,5 @@ title: Data Science Blog - Machine Learning
 
 [Tree models](https://karlho.github.io/treemodels_creditcard.html)
 
+[Lab 0](lab01.html)
+
