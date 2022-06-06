@@ -13,7 +13,7 @@ permalink: /teaching/
 - Survey Research
 - Advanced Data Programming
 
-# Political Science
+# Political Science, Public Policy and Political Economy
 
 - Politics and Policy in China
 - Political Economy in East Asia
