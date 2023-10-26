@@ -13,6 +13,8 @@ title: Data Science Blog - Data Visualization
 
 [D3 Aster charts: Taiwan and Hong Kong Latent Profile Models](https://www.utdallas.edu/~kyho/present/aster/lpm.html)
 
+[D3 Donut chart: Karl's schedule](/D3/donut1/index.html)
+
 [D3 Ladder graph: Taiwan climate](/D3/lg_twclimate/index.html "Taiwan Climate Laddergraph")
 
 [D3 Create network (Credit: Mike Bostock)](/D3/createnetwork/index.html "Create your own network")
