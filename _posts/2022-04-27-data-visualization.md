@@ -30,4 +30,4 @@ title: Data Science Blog - Data Visualization
 <p>
 <iframe width="800" height="600" src="https://karlho.shinyapps.io/AnimationShiny/?_ga=2.2022769.1730630911.1603142774-249013827.1603142774" frameborder="0" allowfullscreen></iframe>
 <p>
-<iframe width="800" height="1000" src="https://datageneration.shinyapps.io/Shiny_ex1/?_ga=2.158127807.483113293.1637812383-1785553739.1637812383" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="1000" src="https://karlho.github.io/quarto/demo1/dashboard_gapminder.html" frameborder="0" allowfullscreen></iframe>
